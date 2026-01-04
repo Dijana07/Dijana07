@@ -23,7 +23,7 @@ My focus is on backend and full‑stack development, but I'm also learning front
 
 ### <p align="center"> 🛠️ Technologies & Tools </p>
 
-- **Languages**: `C`, `C#`, `C++`, `Julia`, `JavaScript`, `TypeScript`
+- **Languages**: `C`, `C#`, `C++`, `JavaScript`, `TypeScript`
 - **Backend**: `.NET`, `Node.js`, `Express.js`, `ASP.NET MVC`
 - **Frontend**: `HTML5`, `CSS3`, `React`, `Tailwind CSS`, `Electron`
 - **Desktop**: `WPF`, `MVVM`
