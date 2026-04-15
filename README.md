@@ -17,15 +17,15 @@
 ### <p align="center"> 👩‍💻 About Me <p>
 
 I'm a Software Engineering undergraduate at the Faculty of Technical Sciences, University of Novi Sad. 
-My focus is on backend and full‑stack development, but I'm also learning frontend technologies.
+My focus is on full‑stack development, but I would like to learn more about cyber security. I love challenges and am very excited to learn new things. 
 
 ---
 
 ### <p align="center"> 🛠️ Technologies & Tools </p>
 
-- **Languages**: `C`, `C#`, `C++`, `JavaScript`, `TypeScript`
-- **Backend**: `.NET`, `Node.js`, `Express.js`, `ASP.NET MVC`
-- **Frontend**: `HTML5`, `CSS3`, `React`, `Tailwind CSS`, `Electron`
+- **Languages**: `C#`, `C`, `C++`, `JavaScript`, `TypeScript`, `Python`
+- **Backend**: `.NET`, `Node.js`, `ASP.NET MVC`
+- **Frontend**: `HTML5`, `CSS3`, `React`, `Electron`
 - **Desktop**: `WPF`, `MVVM`
 - **Databases**: `MySQL`, `MongoDB`
 - **Other Tools**: `Git`, `GitHub`, `Canva`, `Figma`
