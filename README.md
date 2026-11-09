@@ -1,48 +1,37 @@
----
 <h1 align="center">Dijana Stojković</h1>
 
 ### <p align="center"> 🔧 Core Tech Stack </p>
 <div align="center">
   
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=c-sharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge\&logo=.net\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge\&logo=node.js\&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
-### <p align="center"> 👩‍💻 About Me <p>
+### <p align="center"> 👩‍💻 About Me </p>
 
-I'm a Software Engineering undergraduate at the Faculty of Technical Sciences, University of Novi Sad. 
-My focus is on full‑stack development, but I would like to learn more about cyber security. I love challenges and am very excited to learn new things. 
+<p align="center">
+Graduate Software Engineer (B.Sc. in Power Software Engineering, FTN Novi Sad) & currently pursuing my Master's degree in <b>Information Security</b>.
+</p>
+
+I have a strong passion for **full-stack software engineering**—I thrive on architecture planning, system design, and diving into technical implementation details. 
+
+Driven by the belief that secure coding practices and threat awareness are non-negotiable for building reliable systems, I am actively focusing on bridging full-stack development with **cybersecurity principles** to engineer enterprise-ready applications.
 
 ---
 
 ### <p align="center"> 🛠️ Technologies & Tools </p>
 
-- **Languages**: `C#`, `C`, `C++`, `JavaScript`, `TypeScript`, `Python`
-- **Backend**: `.NET`, `Node.js`, `ASP.NET MVC`
-- **Frontend**: `HTML5`, `CSS3`, `React`, `Electron`
-- **Desktop**: `WPF`, `MVVM`
-- **Databases**: `MySQL`, `MongoDB`
-- **Other Tools**: `Git`, `GitHub`, `Canva`, `Figma`
+- **Languages**: `C#`, `TypeScript`, `JavaScript`, `C`, `C++`, `Python`
+- **Backend Architecture**: `.NET 8 / Core`, `ASP.NET Core Web API`, `ASP.NET MVC`, `Microservices`, `Node.js`
+- **Frontend Development**: `React`, `TypeScript`, `Vite`, `Tailwind CSS`, `HTML5/CSS3`
+- **Desktop & Security**: `WPF (MVVM)`, `JWT Authentication`, `Role-Based Access Control`
+- **Databases & ORM**: `SQL Server`, `Entity Framework Core`, `MySQL`, `MongoDB`
+- **DevOps & Tools**: `Git`, `GitHub`, `Service Fabric`, `Postman`, `Docker`, `Figma`
 
 ---
-
-<!--
-**Dijana07/Dijana07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
